@@ -1,0 +1,101 @@
+departure airport IATA,arrival airport IATA,delay in mins,estimatedDelay,Airline Company,month_day
+'iataCode': 'atl,'iataCode': 'rsw, 'delay': 12,12.0,'name': 'delta air lines,09-01
+'iataCode': 'atl,'iataCode': 'sat, 'delay': 12,-1.0,'name': 'alitalia,08-31
+'iataCode': 'atl,'iataCode': 'sat, 'delay': 12,-1.0,'name': 'klm,08-31
+'iataCode': 'atl,'iataCode': 'sat, 'delay': 12,-1.0,'name': 'latam airlines,08-31
+'iataCode': 'atl,'iataCode': 'sat, 'delay': 12,-1.0,'name': 'virgin atlantic,08-31
+'iataCode': 'atl,'iataCode': 'sat, 'delay': 12,-1.0,'name': 'westjet,08-31
+'iataCode': 'atl,'iataCode': 'sat, 'delay': 12,-1.0,'name': 'delta air lines,08-31
+'iataCode': 'atl,'iataCode': 'hpn, 'delay': 15,0.0,'name': 'aeromexico,08-31
+'iataCode': 'atl,'iataCode': 'hpn, 'delay': 15,0.0,'name': 'virgin atlantic,08-31
+'iataCode': 'atl,'iataCode': 'hpn, 'delay': 15,0.0,'name': 'delta air lines,08-31
+'iataCode': 'atl,'iataCode': 'ind, 'delay': 27,11.0,'name': 'delta air lines,08-31
+'iataCode': 'atl,'iataCode': 'cdg,,65.0,'name': 'air france,08-31
+'iataCode': 'atl,'iataCode': 'dub, 'delay': 163,163.0,'name': 'delta air lines,08-31
+'iataCode': 'atl,'iataCode': 'pbi, 'delay': 19,-1.0,'name': 'delta air lines,08-31
+'iataCode': 'atl,'iataCode': 'sfo, 'delay': 10,0.0,'name': 'air france,08-31
+'iataCode': 'atl,'iataCode': 'sfo, 'delay': 10,0.0,'name': 'aeromexico,08-31
+'iataCode': 'atl,'iataCode': 'sfo, 'delay': 10,0.0,'name': 'korean air,08-31
+'iataCode': 'atl,'iataCode': 'sfo, 'delay': 10,0.0,'name': 'klm,08-31
+'iataCode': 'atl,'iataCode': 'sfo, 'delay': 10,0.0,'name': 'latam airlines,08-31
+'iataCode': 'atl,'iataCode': 'sfo, 'delay': 10,0.0,'name': 'virgin atlantic,08-31
+'iataCode': 'atl,'iataCode': 'sfo, 'delay': 10,0.0,'name': 'delta air lines,08-31
+'iataCode': 'atl,'iataCode': 'ams, 'delay': 42,42.0,'name': 'air france,08-31
+'iataCode': 'atl,'iataCode': 'ams, 'delay': 42,42.0,'name': 'klm,08-31
+'iataCode': 'atl,'iataCode': 'ams, 'delay': 42,42.0,'name': 'virgin atlantic,08-31
+'iataCode': 'atl,'iataCode': 'ams, 'delay': 42,42.0,'name': 'delta air lines,08-31
+'iataCode': 'atl,'iataCode': 'dtw, 'delay': 7,0.0,'name': 'air france,08-31
+'iataCode': 'atl,'iataCode': 'dtw, 'delay': 7,0.0,'name': 'alitalia,08-31
+'iataCode': 'atl,'iataCode': 'dtw, 'delay': 7,0.0,'name': 'klm,08-31
+'iataCode': 'atl,'iataCode': 'dtw, 'delay': 7,0.0,'name': 'latam airlines,08-31
+'iataCode': 'atl,'iataCode': 'dtw, 'delay': 7,0.0,'name': 'virgin atlantic,08-31
+'iataCode': 'atl,'iataCode': 'dtw, 'delay': 7,0.0,'name': 'delta air lines,08-31
+'iataCode': 'atl,'iataCode': 'fll, 'delay': 11,0.0,'name': 'air france,08-31
+'iataCode': 'atl,'iataCode': 'fll, 'delay': 11,0.0,'name': 'aeromexico,08-31
+'iataCode': 'atl,'iataCode': 'fll, 'delay': 11,0.0,'name': 'alitalia,08-31
+'iataCode': 'atl,'iataCode': 'fll, 'delay': 11,0.0,'name': 'klm,08-31
+'iataCode': 'atl,'iataCode': 'fll, 'delay': 11,0.0,'name': 'latam airlines,08-31
+'iataCode': 'atl,'iataCode': 'fll, 'delay': 11,0.0,'name': 'virgin atlantic,08-31
+'iataCode': 'atl,'iataCode': 'fll, 'delay': 11,0.0,'name': 'delta air lines,08-31
+'iataCode': 'atl,'iataCode': 'jan, 'delay': 5,-10.0,'name': 'air france,08-31
+'iataCode': 'atl,'iataCode': 'jan, 'delay': 5,-10.0,'name': 'aeromexico,08-31
+'iataCode': 'atl,'iataCode': 'jan, 'delay': 5,-10.0,'name': 'alitalia,08-31
+'iataCode': 'atl,'iataCode': 'jan, 'delay': 5,-10.0,'name': 'klm,08-31
+'iataCode': 'atl,'iataCode': 'jan, 'delay': 5,-10.0,'name': 'virgin atlantic,08-31
+'iataCode': 'atl,'iataCode': 'jan, 'delay': 5,-10.0,'name': 'delta air lines,08-31
+'iataCode': 'atl,'iataCode': 'bwi, 'delay': 14,19.0,'name': 'air france,08-31
+'iataCode': 'atl,'iataCode': 'bwi, 'delay': 14,19.0,'name': 'aeromexico,08-31
+'iataCode': 'atl,'iataCode': 'bwi, 'delay': 14,19.0,'name': 'klm,08-31
+'iataCode': 'atl,'iataCode': 'bwi, 'delay': 14,19.0,'name': 'latam airlines,08-31
+'iataCode': 'atl,'iataCode': 'bwi, 'delay': 14,19.0,'name': 'virgin atlantic,08-31
+'iataCode': 'atl,'iataCode': 'bwi, 'delay': 14,19.0,'name': 'delta air lines,08-31
+'iataCode': 'atl,'iataCode': 'iah, 'delay': 14,9.0,'name': 'air france,08-31
+'iataCode': 'atl,'iataCode': 'iah, 'delay': 14,9.0,'name': 'alitalia,08-31
+'iataCode': 'atl,'iataCode': 'iah, 'delay': 14,9.0,'name': 'klm,08-31
+'iataCode': 'atl,'iataCode': 'iah, 'delay': 14,9.0,'name': 'latam airlines,08-31
+'iataCode': 'atl,'iataCode': 'iah, 'delay': 14,9.0,'name': 'virgin atlantic,08-31
+'iataCode': 'atl,'iataCode': 'iah, 'delay': 14,9.0,'name': 'delta air lines,08-31
+'iataCode': 'atl,'iataCode': 'cvg, 'delay': 19,9.0,'name': 'air france,08-31
+'iataCode': 'atl,'iataCode': 'cvg, 'delay': 19,9.0,'name': 'aeromexico,08-31
+'iataCode': 'atl,'iataCode': 'cvg, 'delay': 19,9.0,'name': 'alitalia,08-31
+'iataCode': 'atl,'iataCode': 'cvg, 'delay': 19,9.0,'name': 'klm,08-31
+'iataCode': 'atl,'iataCode': 'cvg, 'delay': 19,9.0,'name': 'latam airlines,08-31
+'iataCode': 'atl,'iataCode': 'cvg, 'delay': 19,9.0,'name': 'virgin atlantic,08-31
+'iataCode': 'atl,'iataCode': 'cvg, 'delay': 19,9.0,'name': 'delta air lines,08-31
+'iataCode': 'atl,'iataCode': 'iah, 'delay': 34,0.0,'name': 'spirit airlines,08-31
+'iataCode': 'atl,'iataCode': 'sna, 'delay': 34,21.0,'name': 'air france,08-31
+'iataCode': 'atl,'iataCode': 'sna, 'delay': 34,21.0,'name': 'alitalia,08-31
+'iataCode': 'atl,'iataCode': 'sna, 'delay': 34,21.0,'name': 'klm,08-31
+'iataCode': 'atl,'iataCode': 'sna, 'delay': 34,21.0,'name': 'virgin atlantic,08-31
+'iataCode': 'atl,'iataCode': 'sna, 'delay': 34,21.0,'name': 'delta air lines,08-31
+'iataCode': 'atl,'iataCode': 'stl, 'delay': 29,19.0,'name': 'southwest airlines,08-31
+'iataCode': 'atl,'iataCode': 'dfw, 'delay': 21,,'name': 'alaska airlines,08-31
+'iataCode': 'atl,'iataCode': 'dfw, 'delay': 21,,'name': 'gulf air,08-31
+'iataCode': 'atl,'iataCode': 'dfw, 'delay': 21,,'name': 'qantas,08-31
+'iataCode': 'atl,'iataCode': 'dfw, 'delay': 21,,'name': 'qatar airways,08-31
+'iataCode': 'atl,'iataCode': 'dfw, 'delay': 21,,'name': 'american airlines,08-31
+'iataCode': 'atl,'iataCode': 'avl, 'delay': 2,0.0,'name': 'air france,08-31
+'iataCode': 'atl,'iataCode': 'avl, 'delay': 2,0.0,'name': 'aeromexico,08-31
+'iataCode': 'atl,'iataCode': 'avl, 'delay': 2,0.0,'name': 'klm,08-31
+'iataCode': 'atl,'iataCode': 'avl, 'delay': 2,0.0,'name': 'virgin atlantic,08-31
+'iataCode': 'atl,'iataCode': 'avl, 'delay': 2,0.0,'name': 'delta air lines,08-31
+'iataCode': 'atl,'iataCode': 'elp, 'delay': 11,0.0,'name': 'air france,08-31
+'iataCode': 'atl,'iataCode': 'elp, 'delay': 11,0.0,'name': 'aeromexico,08-31
+'iataCode': 'atl,'iataCode': 'elp, 'delay': 11,0.0,'name': 'alitalia,08-31
+'iataCode': 'atl,'iataCode': 'elp, 'delay': 11,0.0,'name': 'klm,08-31
+'iataCode': 'atl,'iataCode': 'elp, 'delay': 11,0.0,'name': 'virgin atlantic,08-31
+'iataCode': 'atl,'iataCode': 'elp, 'delay': 11,0.0,'name': 'delta air lines,08-31
+'iataCode': 'atl,'iataCode': 'boi, 'delay': 29,20.0,'name': 'virgin atlantic,08-31
+'iataCode': 'atl,'iataCode': 'boi, 'delay': 29,20.0,'name': 'delta air lines,08-31
+'iataCode': 'atl,'iataCode': 'mco, 'delay': 37,37.0,'name': 'spirit airlines,08-31
+'iataCode': 'atl,'iataCode': 'ist,,67.0,'name': 'pakistan international airlines,08-31
+'iataCode': 'atl,'iataCode': 'ist,,67.0,'name': 'singapore airlines,08-31
+'iataCode': 'atl,'iataCode': 'ist,,67.0,'name': 'turkish airlines,08-31
+'iataCode': 'atl,'iataCode': 'pns, 'delay': 65,65.0,'name': 'air france,08-31
+'iataCode': 'atl,'iataCode': 'pns, 'delay': 65,65.0,'name': 'aeromexico,08-31
+'iataCode': 'atl,'iataCode': 'pns, 'delay': 65,65.0,'name': 'alitalia,08-31
+'iataCode': 'atl,'iataCode': 'pns, 'delay': 65,65.0,'name': 'klm,08-31
+'iataCode': 'atl,'iataCode': 'pns, 'delay': 65,65.0,'name': 'virgin atlantic,08-31
+'iataCode': 'atl,'iataCode': 'pns, 'delay': 65,65.0,'name': 'delta air lines,08-31
+'iataCode': 'atl,'iataCode': 'iad, 'delay': 12,2.0,'name': 'air france,08-31
+'iataCode': 'atl,'iataCode': 'iad, 'delay': 12,2.0,'name': 'aeromexico,08-31
