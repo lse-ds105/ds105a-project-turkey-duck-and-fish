@@ -6,7 +6,7 @@
 - `Chaoyang Feng (oche32) | BSc in Politics and Data Science` 
 - `Kylin Gao (gaoonline) | BSc in Economics`  
 - `Anka Uysal (ankauysal)| BSc in Economics`  
-- `Sissi Wang (xxx)| xxx` 
+- `Sissi Wang (Huanxi-Wang) | BA in History` 
 
 --- 
 
@@ -44,13 +44,16 @@ Here is our final data frame: put csv link
 Based on the data we collected, here are the visualizations and our conclusing analysis: 
 
 ### analysis 1 
-graph 1 
-explanation xxx
+![Here is our first graph!](Exihibit1.png "Exhibit1")
+
+explanation
 
 ### analysis 2 
 graph 2 
 explanation xxx  
 
+
+![delays on world map](Exhibit2(2).png "Exhibit2(2)")
 --- 
 
 ## 📝 Conclusion 📝
