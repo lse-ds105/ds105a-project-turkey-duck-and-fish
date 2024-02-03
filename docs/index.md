@@ -6,7 +6,7 @@
 - `Chaoyang Feng (oche32) | BSc in Politics and Data Science` 
 - `Kylin Gao (gaoonline) | BSc in Economics`  
 - `Anka Uysal (ankauysal)| BSc in Economics`  
-- `Sissi Wang (Huanxi-Wang)| BA in History 
+- `Sissi Wang (Huanxi-Wang) | BA in History` 
 
 --- 
 
