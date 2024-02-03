@@ -44,7 +44,7 @@ Here is our final data frame: put csv link
 Based on the data we collected, here are the visualizations and our conclusing analysis: 
 
 ### analysis 1 
-![Here is our first graph!](C:\Users\email\Desktop\DS105_groupproject_website\ds105a-project-turkey-duck-and-fish\docs\index.md "Exhibit1")
+![Here is our first graph!](Exihibit1.png "Exhibit1")
 
 explanation
 
