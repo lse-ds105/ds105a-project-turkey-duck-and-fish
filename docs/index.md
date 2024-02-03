@@ -52,6 +52,8 @@ explanation
 graph 2 
 explanation xxx  
 
+
+![delays on world map](Exhibit2(2).png "Exhibit2(2)")
 --- 
 
 ## 📝 Conclusion 📝
