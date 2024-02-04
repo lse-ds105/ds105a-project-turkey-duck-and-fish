@@ -44,13 +44,13 @@ Here is our final data frame: put csv link
 Based on the data we collected, here are the visualizations and our conclusing analysis: 
 
 ### analysis 1 
-![Here is our first graph!](Exihibit1.png "Exhibit1")
+![Here is our first graph!](Exhibit1.png "Exhibit1")
 
 explanation
 
 ### analysis 2 
-graph 2 
-explanation xxx  
+![Plotly Chart](chart.html)
+
 
 
 ![delays on world map](Exhibit2(2).png "Exhibit2(2)")
