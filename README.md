@@ -15,6 +15,7 @@
 Here's a quick overview of the important files and directories in this repository:
 
 - **`Code(src)`**: this folder contains the Source code for our project, where you can find:  
+
 File **api request.ipynb**: Collecting raw data from the API, and producing a csv file containing raw data **data.csv**  
 
 *note*: **data.csv** contains 732,880 lines of data. We do not want to push any large files to the Github, so the file is compressed to **data.rar**, which could be found in the **/Data** folder.  
