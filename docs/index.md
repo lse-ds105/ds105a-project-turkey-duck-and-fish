@@ -35,7 +35,7 @@ We have collected data from xx airports in the xxx timeframe. This will allow us
 
 ### 🔬 Final Data 🔬
 
-Here is our final data frame: put csv link 
+[Here](C:\Users\email\Desktop\ds105a-project-turkey-duck-and-fish\Final Data\final_data.csv) is our final data frame! 
 
 --- 
 
@@ -49,7 +49,8 @@ Based on the data we collected, here are the visualizations and our conclusing a
 explanation
 
 ### analysis 2 
-![Plotly Chart](chart.html)
+
+![Scatter Diagram](scatter_plot.html){ width=800px height=600px }
 
 
 
