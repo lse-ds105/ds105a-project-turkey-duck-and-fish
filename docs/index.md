@@ -50,9 +50,9 @@ explanation
 
 ### analysis 2 
 
-![Scatter Diagram](scatter_plot.html){ width=800px height=600px }
+![Scatter Diagram](scatter_plot_1.html){ width=800px height=600px }
 
-
+![Scatter Diagram](scatter_plot_2.html){ width=800px height=600px }
 
 ![delays on world map](Exhibit2(2).png "Exhibit2(2)")
 --- 
