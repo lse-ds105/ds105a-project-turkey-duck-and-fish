@@ -12,6 +12,16 @@
 
 ### Repository Structure
 
-Here's an quick overview of the important files and directories in this repository:
+Here's a quick overview of the important files and directories in this repository:
 
 - **`xxx`**: xxx
+
+---
+
+### Contribution List
+
+Here is a list demonstrating each member's contribution to the project
+- **`Kylin Gao`**: xxx
+- **`Chaoyang Feng`**: xxx
+- **`Sissi Wang`**: xxx
+- **`Anka Uysal`**: xxx
