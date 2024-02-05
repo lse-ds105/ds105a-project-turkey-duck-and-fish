@@ -6,7 +6,7 @@
 
 ### Overview
 
-**The purpose of this repository is to the analyse flight delays: which airports have the most delays, which airlines have the most delays, how much delay occurs, etc. ** We have scraped data from flight APIs and analyzed the data. This README file will provide an overview of what you can find in this repository, how to reproduce our analysis, and the conclusions we have reached.
+**The purpose of this repository is to the analyse flight delays: which airports have the most delays, which airlines have the most delays, how much delay occurs, etc.** We have scraped data from flight APIs and analyzed the data. This README file will provide an overview of what you can find in this repository, how to reproduce our analysis, and the conclusions we have reached.
 
 --- 
 
@@ -18,7 +18,7 @@ Here's a quick overview of the important files and directories in this repositor
 
 File **api request.ipynb**: Collecting raw data from the API, and producing a csv file containing raw data **data.csv**  
 
-*note*: **data.csv** contains 732,880 lines of data. We do not want to push any large files to the Github, so the file is compressed to **data.rar**, which could be found in the **/Data** folder.  
+(*note*: the raw file **data.csv** contains 732,880 lines of data. We do not wish to push any large files to Github, so the file is compressed to **data.rar**, which can be found in the **/Data** folder.)  
 
 File **Data Filtration.ipynb**: Filtering the raw file **data.csv** to produce the final data (**final_data.csv**) that is ready to be used for analysis.  
 
@@ -28,7 +28,7 @@ File **pplot-jan27.ipynb**: Analyzing **final_data.csv** with **Matplotlib** and
 
 - **`Final Data`**: This folder contains the **final_data.csv**  
 
-- **`docs`**:
+- **`docs`**: 
 
 ---
 ### Contribution List
