@@ -20,8 +20,10 @@ Flights are an essential part of many people's lives. No matter what you do for 
 
 ### ⏳ Procedure Map ⏳
 
-Here is a procedure map that provides an overview of our data sourcing and collection procedure: 
-xxxx - insert data collection procedure map here 
+Here is a procedure map that provides an overview of our data sourding and data collection procedure: 
+
+![](Procedure_map_1.jpeg)
+![](procedure_map_2.jpeg)
 
 ### 📊 Data Source 📊
 
