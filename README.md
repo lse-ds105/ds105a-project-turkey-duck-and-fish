@@ -55,7 +55,7 @@ xxx
 
 ### Contribution List
 
-Here is a list demonstrating each member's contribution to the project: 
+Here is each member's contribution to the project: 
 
 - **`Kylin Gao`**: Data Sourcing, Data Analysis and Visualization
 - **`Chaoyang Feng`**: Data Sourcing, Data Collection (API)
