@@ -4,9 +4,11 @@
 
 ## ✈️ Analysis Topic: Flight Delay Analysis ✈️
 
+--- 
+
 ### Overview
 
-**The purpose of this repository is to the analyse flight delays: which airports have the most delays, which airlines have the most delays, how much delay occurs, etc.** We have scraped data from flight APIs and analyzed the data. This README file will provide an overview of what you can find in this repository, how to reproduce our analysis, and the conclusions we have reached.
+**The purpose of this repository is to the analyse flight delays: which airports have the most delays, which airlines have the most delays, how much delay occurs, etc.** We have scraped data from the Aviyair API and analyzed the data. This README file will provide an overview of what you can find in this repository, how to reproduce our analysis, the conclusions we have reached, and our contribution list. 
 
 --- 
 
@@ -14,27 +16,50 @@
 
 Here's a quick overview of the important files and directories in this repository:
 
-- **`Code(src)`**: this folder contains the Source code for our project, where you can find:  
+- **`Code(src)`**: This folder contains the source code for our project, where you can find:  
 
-File **api request.ipynb**: Collecting raw data from the API, and producing a csv file containing raw data **data.csv**  
+    - **api request.ipynb** file: This file contains the code to collect the raw data from the API and produce a CSV file containing this raw data: **data.csv**.
 
-(*note*: the raw file **data.csv** contains 732,880 lines of data. We do not wish to push any large files to Github, so the file is compressed to **data.rar**, which can be found in the **/Data** folder.)  
+    (*Note*: The raw data file **data.csv** contains 732,880 lines of data. We did not want to push large files to Github, so the file is compressed to **data.rar**, which can be found in the **/Data** folder.)  
 
-File **Data Filtration.ipynb**: Filtering the raw file **data.csv** to produce the final data (**final_data.csv**) that is ready to be used for analysis.  
+    - **Data Filtration.ipynb** file: This file contains the code that filters the raw file **data.csv** to produce the final data frame: (**final_data.csv**). This is the final data that we use in our analysis. 
 
-File **pplot-jan27.ipynb**: Analyzing **final_data.csv** with **Matplotlib** and **Geopandas** to produce visualization graphs  
+    - **pplot-jan27.ipynb** file: This file contains the code to our analysis of **final_data.csv** with **Matplotlib** and **Geopandas** to produce visualization graphs.  
 
-- **`Data`**: This folder contains the compressed version of the raw data **data.rar** and other filtered data files (e.g. Delay.csv, Airport_IATA.csv) that are used to produce the final data.  
+- **`Data`**: This folder contains the compressed version of the raw data **data.rar** and other filtered data files (e.g. Delay.csv, Airport_IATA.csv) that are used to produce the final data that we use in our analysis.  
 
-- **`Final Data`**: This folder contains the **final_data.csv**  
+- **`Final Data`**: This folder contains our final data file: **final_data.csv**.
 
-- **`docs`**: 
+- **`docs`**: This folder includes the **index.md** file that contains the story of our website, and other necessary files for the production of our website.
+
+- **`figs`**: This folder contains several png files that are different visualizations that we have produced through our analysis. These figures are included in our website alongide with their explanations. 
 
 ---
+
+### Reproduction of the Analysis
+
+To reproduce the scraping, analysis, and findings, follow these steps:
+
+1. Access the repository: Either clone this repository using the git clone command on the terminal, or interact with it on GitHub.
+
+2. Navigate to the **Code(src)** file and open the jupyter notebooks. Follow the process and comments within the notebooks to run the code and reproduce the analysis.
+
+3. Or alternatively, simply explore the Data/, Final Data/, and figs/ folders to view the comprehesively scraped and filtered data and the findings displayed in the figures.
+
+---
+### Conclusions 
+
+xxx 
+
+--- 
+
 ### Contribution List
 
-Here is a list demonstrating each member's contribution to the project
-- **`Kylin Gao`**: xxx
-- **`Chaoyang Feng`**: xxx
-- **`Sissi Wang`**: xxx
-- **`Anka Uysal`**: xxx
+Here is a list demonstrating each member's contribution to the project: 
+
+- **`Kylin Gao`**: Data Sourcing, Data Analysis and Visualization
+- **`Chaoyang Feng`**: Data Sourcing, Data Collection (API)
+- **`Sissi Wang`**: Data Sourcing, Website Production
+- **`Anka Uysal`**: Data Sourcing, Website Production
+
+For any questions, please do not hesitate to reach out to us. 
