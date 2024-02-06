@@ -35,7 +35,7 @@ We have collected data from xx airports in the xxx timeframe. This will allow us
 
 ### 🔬 Final Data 🔬
 
-[Here](C:\Users\email\Desktop\ds105a-project-turkey-duck-and-fish\Final Data\final_data.csv) is our final data frame! 
+[Here](final_data.csv) is our final data frame! 
 
 --- 
 
