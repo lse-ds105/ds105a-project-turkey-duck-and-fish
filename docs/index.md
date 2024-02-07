@@ -87,6 +87,7 @@ There are many reasons that flights can be delayed and these reasons can interac
 Arrival delay largely depends on the distance of the flight – if the flight is extremely long or short, it is likely that the flight will be able to catch up sometime midair. If the flight is domestic, it is more likely that the departure delay will be caught up in the air. Arrival delay also depends on the country that one is flying to. On the other hand, there is little to no difference between the airlines for international flights. Therefore, choosing a specific airline will not necessarily impact a passenger's delay time.
 
 It is a limitation of our analysis that the uncertain nature of flight delays could mean that outliers are likely. However, we hope that interacting with this website can help you book your next flight to be the most time efficient it can be! 
+
 --- 
 
 ## References 
