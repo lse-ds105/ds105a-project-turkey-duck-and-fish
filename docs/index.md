@@ -72,6 +72,9 @@ Explanation:
 ![](Exhibit3.html){ width=800px height=600px }
 
 Explanation: 
+
+### Analysis 4
+![](Exhibit4.html){ width=800px height=600px }
 --- 
 
 ## 📝 Conclusion 📝
