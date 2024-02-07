@@ -25,15 +25,11 @@ Here is a procedure map that provides an overview of our data sourding and data 
 ![](final_procedure_map.JPG)
 
 
-### 📊 Data Source 📊
+### 📊 Data Source and Data Collection Challenges 📊
 
-In our analysis, we have used flight delay data from the Aviyair API, which is available through subscription. This API has provided us with historical data, allowing us to analyze dense flight delay data from August 31 - September 9, 2023. The data contains more than 700,000 flights from a wide range of airports, including LAX, ATL, and JFK, and airlines, including Delta, Air France, and KLM.
+In our analysis, we have used flight delay data from the Aviyair API, which is available through subscription. This API has provided us with historical data, allowing us to analyze dense flight delay data from August 31 - September 9, 2023. The data contains more than 700,000 flights (732,880 to be exact) from a wide range of airports, including LAX, ATL, and JFK, and airlines, including Delta, Air France, and KLM. This extensive data set will allow us to make an accurate prediction regarding where, when, and with which airlines delays occur the most. 
 
 It must be recognized here that while there is much information readily available on the internet regarding current delays on flights, it is very hard to find organized historical flight data, which we need to conduct out analysis. In our data sourcing process, we have tried and failed to find a proper data source many times before suceeding with the Aviyair API. We have tried collecting data through many APIs, the most extensive ones being the Aviationstack API and the Airlabs API. While some APIs have allowed us to collect insufficient (either due to information or volume), some we have not been able to access since many are only available through a paid subscription. We have essentially decided to collect data through the Aviyair API through paying a basic subscription. Our data has allowed us to bring this analysis together and present our findings coherently. 
-
-### 🖇 Data Collection 🖇
-
-We have collected data from 732,880 flights in the August 31 - September 9, 2023 timeframe. This extensive data set will allow us to make an accurate prediction regarding where, when, and with which airlines delays occur the most. 
 
 ### 🔬 Final Data 🔬
 
@@ -43,35 +39,39 @@ We have collected data from 732,880 flights in the August 31 - September 9, 2023
 
 ## 📈 The Exploratory Data Analysis 📈
 
-Based on the data we collected, here are the visualizations and our conclusing analysis: 
+Based on the data we collected, here are the visualizations and our concluding analysis: 
 
-### analysis 1.1
+### Analysis 1.1
 ![](Exhibit1.1.html){ width=800px height=600px }
 
-explanation
-### analysis 1.2
+Explanation: 
+
+### Analysis 1.2
 ![](Exhibit1.2.html){ width=800px height=600px }
 
-### analysis 1.3
+Explanation: 
+
+### Analysis 1.3
 ![](Exhibit1.3.html){ width=800px height=600px }
 
-### analysis 1.4
+Explanation: 
+
+### Analysis 1.4
 ![](Exhibit1.4.html){ width=800px height=600px }
 
+Explanation:
 
-
-### analysis 2 
-
-
+### Analysis 2 
 
 ![delays on world map](Exhibit2.png "Exhibit2(2)")
 
+Explanation:
 
-
-### analysis 3
+### Analysis 3
 
 ![](Exhibit3.html){ width=800px height=600px }
 
+Explanation: 
 --- 
 
 ## 📝 Conclusion 📝
@@ -82,8 +82,7 @@ There are many reasons that flights can be delayed and these reasons can interac
 
 ## References 
 
-- ChatGPT 
-- Aviyair API 
-- xxx 
+- ChatGPT (More information can be found in the ChatGPT usage report.)
+- Aviyair API (Available through subscription.)
 
 
