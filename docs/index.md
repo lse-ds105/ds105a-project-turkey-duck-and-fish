@@ -77,7 +77,7 @@ Based on the data we collected, here are the visualizations and our concluding a
 ### Analysis 4
 ![](Exhibit4.html){ width=800px height=600px }
 
-**Explanation:** At this point, in Analysis 4, we are concluding our investigation of flight delays. Considering all the data we have collected, we want to provide the user with a tool that will directly contribute to and hopefully improve their experience with flight delays. By providing information about the flight route, the website will output an average time that the passenger will wait at their departure airport. 
+**Explanation:** At this point, in Analysis 4, we are concluding our investigation of flight delays. Considering all the data we have collected, we want to provide the user with a tool that will directly contribute to and hopefully improve their experience with flight delays. By providing information about the flight route, the website will output an average time that the passengers will wait at their departure airport. 
 --- 
 
 ## 📝 Conclusion 📝
