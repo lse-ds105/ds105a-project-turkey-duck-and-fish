@@ -42,8 +42,7 @@ To reproduce the scraping, analysis, and findings, follow these steps:
 
 1. Access the repository: Either clone this repository using the git clone command on the terminal, or interact with it on GitHub.
 
-2. Navigate to the **Code(src)** file and open the jupyter notebooks. Follow the process and comments within the notebooks to run the code and reproduce the analysis.  
-(it is recommended to read in this order: 1: api request.ipynb, 2: Data Filtration.ipynb, and 3: pplot-jan27.ipynb)  
+2. Navigate to the **Code(src)** file and open the jupyter notebooks. Follow the process and comments within the notebooks to run the code and reproduce the analysis. (It is recommended to read the notebooks in this order: 1: api request.ipynb, 2: Data Filtration.ipynb, and 3: pplot-jan27.ipynb)  
 
 3. Or alternatively, simply explore the Data/, Final Data/, and figs/ folders to view the comprehesively scraped and filtered data and the findings displayed in the figures.
 
