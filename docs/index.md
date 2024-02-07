@@ -22,8 +22,8 @@ Flights are an essential part of many people's lives. No matter what you do for 
 
 Here is a procedure map that provides an overview of our data sourding and data collection procedure: 
 
-![](Procedure_map_1.jpeg)
-![](procedure_map_2.jpeg)
+![](final_procedure_map.JPG)
+
 
 ### 📊 Data Source 📊
 
@@ -45,18 +45,33 @@ We have collected data from 732,880 flights in the August 31 - September 9, 2023
 
 Based on the data we collected, here are the visualizations and our conclusing analysis: 
 
-### analysis 1 
-![Here is our first graph!](Exhibit1.png "Exhibit1")
+### analysis 1.1
+![](Exhibit1.1.html){ width=800px height=600px }
 
 explanation
+### analysis 1.2
+![](Exhibit1.2.html){ width=800px height=600px }
+
+### analysis 1.3
+![](Exhibit1.3.html){ width=800px height=600px }
+
+### analysis 1.4
+![](Exhibit1.4.html){ width=800px height=600px }
+
+
 
 ### analysis 2 
 
-![Scatter Diagram](scatter_plot_1.html){ width=800px height=600px }
 
-![Scatter Diagram](scatter_plot_2.html){ width=800px height=600px }
 
-![delays on world map](Exhibit2(2).png "Exhibit2(2)")
+![delays on world map](Exhibit2.png "Exhibit2(2)")
+
+
+
+### analysis 3
+
+![](Exhibit3.html){ width=800px height=600px }
+
 --- 
 
 ## 📝 Conclusion 📝
