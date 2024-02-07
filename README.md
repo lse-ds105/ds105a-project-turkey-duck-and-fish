@@ -47,9 +47,14 @@ To reproduce the scraping, analysis, and findings, follow these steps:
 3. Or alternatively, simply explore the Data/, Final Data/, and figs/ folders to view the comprehesively scraped and filtered data and the findings displayed in the figures.
 
 ---
+
 ### Conclusions 
 
-xxx 
+There are many reasons that flights can be delayed and these reasons can interact even further to impact flight delay times. Our conclusions show that departure delay largely depends on the airport. Larger airports like LAX tend to have more arrival delays than departure delays.
+
+Arrival delay largely depends on the distance of the flight – if the flight is extremely long or short, it is likely that the flight will be able to catch up sometime midair. If the flight is domestic, it is more likely that the departure delay will be caught up in the air. Arrival delay also depends on the country that one is flying to. On the other hand, there is little to no difference between the airlines for international flights. Therefore, choosing a specific airline will not necessarily impact a passenger's delay time.
+
+It is a limitation of our analysis that the uncertain nature of flight delays could mean that outliers are likely. However, we hope that interacting with our repository can help you have a better experience with flights!
 
 --- 
 
